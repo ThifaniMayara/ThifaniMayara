@@ -29,6 +29,6 @@ Seja bem-vindo ao meu perfil do Github! Espero que goste de meus projetos e se s
   
   <div> 
   <a href="https://www.instagram.com/thi_maydev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%3474747?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a> 
-  <a href = "mailto:thifanimayara25619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%3474747?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+  <a href = "mailto:thifanimayara25619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%3474747?style=for-the-badge&logo=gmail&logoColor=black target="_blank"></a>
   <a href = "https://www.facebook.com/thita.mayara"><img src="https://img.shields.io/badge/-facebook-%3474747?style=for-the-badge&logo=facebook&logoColor=black" target="_blank"></a>
 </div>
